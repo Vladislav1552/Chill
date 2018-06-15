@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.7c30f8c4.css",
   "main.css.map": "static/css/main.7c30f8c4.css.map",
-  "main.js": "static/js/main.3120b10c.js",
-  "main.js.map": "static/js/main.3120b10c.js.map",
+  "main.js": "static/js/main.964340b0.js",
+  "main.js.map": "static/js/main.964340b0.js.map",
   "static\\media\\1.mp3": "static/media/1.814da6fd.mp3",
   "static\\media\\2.mp3": "static/media/2.d772c6af.mp3",
   "static\\media\\3.mp3": "static/media/3.abb33765.mp3",
@@ -11,11 +11,16 @@
   "static\\media\\6.mp3": "static/media/6.2e109cd6.mp3",
   "static\\media\\7.mp3": "static/media/7.ff87b496.mp3",
   "static\\media\\8.mp3": "static/media/8.431e4077.mp3",
+  "static\\media\\9.mp3": "static/media/9.2655191c.mp3",
   "static\\media\\BebasNeue Book.ttf": "static/media/BebasNeue Book.30dc3583.ttf",
   "static\\media\\after-button.png": "static/media/after-button.e23631d6.png",
   "static\\media\\before-button.png": "static/media/before-button.345a3d92.png",
+  "static\\media\\chicane-gorecki_11.mp3": "static/media/chicane-gorecki_11.e2f4473f.mp3",
+  "static\\media\\crywolf-slow-burn_13.mp3": "static/media/crywolf-slow-burn_13.ef2de145.mp3",
+  "static\\media\\feverkin-turn-to-salt_10.mp3": "static/media/feverkin-turn-to-salt_10.7ef53508.mp3",
   "static\\media\\hide.png": "static/media/hide.b2928548.png",
   "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg",
   "static\\media\\spinning-circles.svg": "static/media/spinning-circles.90e83534.svg",
-  "static\\media\\stop-button.png": "static/media/stop-button.c96b9418.png"
+  "static\\media\\stop-button.png": "static/media/stop-button.c96b9418.png",
+  "static\\media\\subtact-jay-rodger-burden_12.mp3": "static/media/subtact-jay-rodger-burden_12.ee3d62ec.mp3"
 }
